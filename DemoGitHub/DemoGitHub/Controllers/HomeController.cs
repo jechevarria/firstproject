@@ -15,7 +15,7 @@ namespace DemoGitHub.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Esto cambio en el branch develop";
+            ViewBag.Message = "Esto cambio en el branch develop 2";
 
             return View();
         }
